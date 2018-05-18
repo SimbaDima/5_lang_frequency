@@ -25,8 +25,11 @@ In my case this directory is `firstTask`
 ```
 
 After user will need to enter in console first parameter it is interpreter `python`, then name of script, then name of file with text 
+
 In my case: name of script `coolprogram.py`, name of file with text `test.txt`
+
 Data is in `test.txt`:
+
 ```
 А вы знаете самые частые слова в русском языке? Это "и", "в" и "не". Остальных можно посмотреть на википедии.
 
